@@ -27,8 +27,8 @@
 
 <div align="center">
 <a href="https://github.com/colakalpeer">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=colakalpeer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=colakalpeer&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=colakalpeer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=colakalpeer&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=colakalpeer&theme=algolia" alt="colakalpeer" /></p>
