@@ -25,6 +25,7 @@
 <a href="https://discord.gg/.wupwup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".wupwup" height="30" width="40" /></a>
 </p>
 
+<h3 align="center"> My Stats </h3>
 <div align="center">
 <a href="https://github.com/colakalpeer">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=colakalpeer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
