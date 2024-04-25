@@ -25,13 +25,14 @@
 <a href="https://discord.gg/.wupwup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".wupwup" height="30" width="40" /></a>
 </p>
 
+<div align="center">
 <a href="https://github.com/colakalpeer">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=colakalpeer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=colakalpeer&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=colakalpeer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=colakalpeer&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=colakalpeer&theme=algolia" alt="colakalpeer" /></p>
-
+</div>
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
