@@ -11,7 +11,7 @@
  <a href="https://wakatime.com/@colakalpeer"><img src="https://wakatime.com/badge/user/018e03c1-101b-4515-a52f-ee956df478c1.svg" /></a>
 </div>
 <p align="center">
-- 📫 How to reach me **colakalpeer93@gmail.com**
+- 📫 If you wanna reach me  **colakalpeer93@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
