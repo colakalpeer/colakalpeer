@@ -1,10 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
 </p>
-
 <h1 align="center">👋, I'm Alper</h1>
 <h3 align="center">will be a fullstack developer</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=colakalpeer&label=Profile%20views&color=0e75b6&style=flat" alt="colakalpeer" />
 </p>
 <div align="center"> 
